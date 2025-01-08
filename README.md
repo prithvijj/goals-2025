@@ -9,6 +9,6 @@ Just a checklist of things I hopefully would like to get out in 2025
   - [ ] Designing data intensive stuff
   - [ ] Staff Engineer: Individal Contributor thingy 
 - [ ] Creating 20 different usages of `Redis` + `Go` to learn about it, that uses Docker, available in a single repo
-- [ ] 
+- [ ] TODO
 
 
