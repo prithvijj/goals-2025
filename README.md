@@ -8,7 +8,7 @@ Just a checklist of things I hopefully would like to get out in 2025
 - [ ] Read 12 books (tech related). Will update this README with the books I've read
   - [ ] Designing data intensive stuff
   - [ ] Staff Engineer: Individal Contributor thingy 
-- [ ] Creating 20 different usages of `Redis` + `Go` to learn about it, that uses Docker, available in a single repo
+- [x] Creating 10 different usages of `Redis` + `Go` to learn about it, that uses Docker, available in a single repo [Available here](https://github.com/prithvijj/learning-redis)
 - [ ] TODO
 
 
