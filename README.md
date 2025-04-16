@@ -11,6 +11,14 @@ Just a checklist of things I hopefully would like to get out in 2025
   - [x] The Staff Engineer's Path: A Guide for Individual Contributors Navigating Growth and Change (Jan 1, 2025)
   - [ ] PostgreSQL Query Optimization: The Ultimate Guide to Building Efficient Queries
   - [x] The Software Engineer's Guidebook: Navigating senior, tech lead, and staff engineer positions at tech companies and startups (Mar 29, 2025)
+  - [ ] Software Architecture: The Hard Parts: Modern Trade-Off Analyses for Distributed Architectures
+  - [ ] TODO
+  - [ ] TODO
+  - [ ] TODO
+  - [ ] TODO
+  - [ ] TODO
+  - [ ] TODO
+  - [ ] TODO
 - [x] Creating 10 different usages of `Redis` + `Go` to learn about it, that uses Docker, available in a single repo [Available here](https://github.com/prithvijj/learning-redis)
 - [ ] TODO
 
