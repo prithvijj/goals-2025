@@ -20,6 +20,7 @@ Just a checklist of things I hopefully would like to get out in 2025
   - [ ] TODO
   - [ ] TODO
 - [x] Creating 10 different usages of `Redis` + `Go` to learn about it, that uses Docker, available in a single repo [Available here](https://github.com/prithvijj/learning-redis)
+- [ ] Create examples of protobuf in `Go`
 - [ ] TODO
 
 
