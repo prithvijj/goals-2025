@@ -12,7 +12,7 @@ Just a checklist of things I hopefully would like to get out in 2025
   - [x] PostgreSQL Query Optimization: The Ultimate Guide to Building Efficient Queries (Jul 1, 2025)
   - [x] The Software Engineer's Guidebook: Navigating senior, tech lead, and staff engineer positions at tech companies and startups (Mar 29, 2025)
   - [x] Software Architecture: The Hard Parts: Modern Trade-Off Analyses for Distributed Architectures (Jun 17, 2025)
-  - [x] Writing an Interpreter in Go (start: Jun 18, 2025) (end: Sep 5, 2025)
+  - [x] Writing an Interpreter in Go (start: Jun 18, 2025) (end: Sep 5, 2025) (https://github.com/prithvijj/learning-interpreter-go)
   - [ ] TODO
   - [ ] TODO
   - [ ] TODO
