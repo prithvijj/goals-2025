@@ -2,8 +2,10 @@
 
 Just a checklist of things I hopefully would like to get out in 2025
 
-- [ ] Deploy an app on Fly.io using `Go`. Create a repo that shows the start to finish
-- [ ] Create a Function within Digital Ocean using `Go`. Create a repo that shows the start to finish
+- [x] ~Deploy an app on Fly.io using `Go`. Create a repo that shows the start to finish~
+- [x] ~Create a Function within Digital Ocean using `Go`. Create a repo that shows the start to finish~
+  - Credit card didn't go through 😅 
+- [x] Create a Function within GCP using `Go`. Create a repo that shows the start to finish [Available here](https://github.com/prithvijj/learning-gcp-go)
 - [ ] Creating 5 Tech videos, purely for fun
    - [ ] Using TUI's and some APIs 
 - [ ] Read 12 books (tech related). Will update this README with the books I've read
@@ -20,7 +22,7 @@ Just a checklist of things I hopefully would like to get out in 2025
   - [ ] TODO
   - [ ] TODO
 - [x] Creating 10 different usages of `Redis` + `Go` to learn about it, that uses Docker, available in a single repo [Available here](https://github.com/prithvijj/learning-redis)
-- [ ] Create examples of protobuf in `Go`
+- [x] Create example of protobuf in `Go` [Available Here](https://github.com/prithvijj/learning-protobuf)
 - [ ] TODO
 
 
