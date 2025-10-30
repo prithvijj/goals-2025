@@ -16,7 +16,7 @@ Just a checklist of things I hopefully would like to get out in 2025
   - [x] Software Architecture: The Hard Parts: Modern Trade-Off Analyses for Distributed Architectures (Jun 17, 2025)
   - [x] Writing an Interpreter in Go (start: Jun 18, 2025) (end: Sep 5, 2025) (https://github.com/prithvijj/learning-interpreter-go)
   - [ ] Software Engineering at Google (start: TODO) (end: TODO)
-  - [ ] TODO
+  - [ ] The Art of Doing Science and Engineering: Richard Hamming (start: Oct 26, 2025) (end: TODO)
   - [ ] TODO
   - [ ] TODO
   - [ ] TODO
