@@ -25,4 +25,11 @@ Just a checklist of things I hopefully would like to get out in 2025
 - [x] Create example of protobuf in `Go` [Available Here](https://github.com/prithvijj/learning-protobuf)
 - [ ] TODO
 
+# Summary
+
+Was able to read a bit more books, and track it here,
+Would love to continuing reading more books for 2026 and figure out where to go,
+I'd like to experiment with using KDE + Pop OS, and continue with `Go` but yeah hopefully 2026 goes well.
+
+
 
