@@ -17,7 +17,7 @@ Just a checklist of things I hopefully would like to get out in 2025
   - [x] Writing an Interpreter in Go (start: Jun 18, 2025) (end: Sep 5, 2025) (https://github.com/prithvijj/learning-interpreter-go)
   - [ ] Software Engineering at Google (start: TODO) (end: TODO)
   - [ ] The Art of Doing Science and Engineering: Richard Hamming (start: Oct 26, 2025) (end: TODO)
-  - [ ] TODO
+  - [x] Better: A Surgeon's Notes on Performance: Atul Gawande (start: Dec 18, 2025) (end: Dec 25, 2025)
   - [ ] TODO
   - [ ] TODO
   - [ ] TODO
